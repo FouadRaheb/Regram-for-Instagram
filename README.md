@@ -3,6 +3,7 @@
 [duplicate]: https://mega.nz/file/9bZ3VALI#VO2iln2KdXwK4biffxn1f2b5f-kP6hFjIoMcPcPL6cs
 [trollstore]: https://mega.nz/file/5Ghw0RIR#fDNKYthQUcZ5kfxYR5HwvpUESqV4J7eEAIWp2Smjyac
 
+[changelogs-link]: https://apt.fouadraheb.com/package/com.fouadraheb.regram/changelogs
 [flekstore-link]: https://flekstore.com/wa
 
 <h1 align="center">
@@ -78,6 +79,10 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
 * If you don't have access to AltStore sources, download the IPA file from the link above and copy it to your phone, using iCloud Drive, AirDrop, or any other method. Open AltStore and navigate to the "My Apps" tab. Choose the plus in the top right corner and open the IPA file. When prompted sign in with your Apple ID. Two-factor Authentication is supported, but app-specific passwords are not.
 </details>
+
+## Version History
+You can check Regram's release notes from [this page][changelogs-link].<br/>
+Some versions are released only for Jailbroken devices and later for Sideloading.
 
 ## FAQ
 * If you receive "Please sign in with app-specific password" error, that's because you have 2-factor authentication enabled for your Apple ID. You have to go to Apple's website https://appleid.apple.com, log in with your account and create an app-specific password to use as your Apple ID password.
