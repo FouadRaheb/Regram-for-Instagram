@@ -1,7 +1,7 @@
-[original]: https://mega.nz/file/FTIzDBTC#BwkXzBbcXn33aFXzx954VP4LAJJ_RxFDZln5MpMxZBs
-[original-noplugs]: https://mega.nz/file/4ewzGJIS#3N71N7nOOzQmBqcDUAcBOCpM140ocm7kSBWU_pX_is0
-[duplicate]: https://mega.nz/file/9bZ3VALI#VO2iln2KdXwK4biffxn1f2b5f-kP6hFjIoMcPcPL6cs
-[trollstore]: https://mega.nz/file/5Ghw0RIR#fDNKYthQUcZ5kfxYR5HwvpUESqV4J7eEAIWp2Smjyac
+[SL-IG]: https://mega.nz/file/FTIzDBTC#BwkXzBbcXn33aFXzx954VP4LAJJ_RxFDZln5MpMxZBs
+[SL-IG-NoPlugins]: https://mega.nz/file/4ewzGJIS#3N71N7nOOzQmBqcDUAcBOCpM140ocm7kSBWU_pX_is0
+[SL-IG-Duplicate]: https://mega.nz/file/9bZ3VALI#VO2iln2KdXwK4biffxn1f2b5f-kP6hFjIoMcPcPL6cs
+[TS-IG]: https://mega.nz/file/5Ghw0RIR#fDNKYthQUcZ5kfxYR5HwvpUESqV4J7eEAIWp2Smjyac
 
 [changelogs-link]: https://apt.fouadraheb.com/package/com.fouadraheb.regram/changelogs
 [flekstore-link]: https://flekstore.com/wa
@@ -25,10 +25,10 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
     | Application | Bundle | Version | Regram |
     | ------------------ |:---------:|:------:|:------:|
-    | [Instagram][original] | com.burbn.instagram | 361.0 | 1.0~b19 |
-    | [Instagram - No-Plugins][original-noplugs] | com.burbn.instagram | 361.0 | 1.0~b19 |
-    | [Instagram - Duplicate][duplicate] | com.fouadraheb.regram | 361.0 | 1.0~b19 |
-    | [Instagram - TrollStore][trollstore] | com.burbn.instagram | 361.0 | 1.0~b19 |
+    | [Instagram][SL-IG] | com.burbn.instagram | 362.1 | 1.0~b20 |
+    | [Instagram - No-Plugins][SL-IG-NoPlugins] | com.burbn.instagram | 362.1 | 1.0~b20 |
+    | [Instagram - Duplicate][SL-IG-Duplicate] | com.fouadraheb.regram | 362.1 | 1.0~b20 |
+    | [Instagram - TrollStore][TS-IG] | com.burbn.instagram | 362.1 | 1.0~b20 |
 
     <sup>If you have a paid certificate, you need to use original version and sign it with a Distribution/Ad-Hoc certificate to get notifications.</sup>
     
