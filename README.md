@@ -1,7 +1,7 @@
-[SL-IG]: https://mega.nz/file/FTIzDBTC#BwkXzBbcXn33aFXzx954VP4LAJJ_RxFDZln5MpMxZBs
-[SL-IG-NoPlugins]: https://mega.nz/file/4ewzGJIS#3N71N7nOOzQmBqcDUAcBOCpM140ocm7kSBWU_pX_is0
-[SL-IG-Duplicate]: https://mega.nz/file/9bZ3VALI#VO2iln2KdXwK4biffxn1f2b5f-kP6hFjIoMcPcPL6cs
-[TS-IG]: https://mega.nz/file/5Ghw0RIR#fDNKYthQUcZ5kfxYR5HwvpUESqV4J7eEAIWp2Smjyac
+[SL-IG]: https://mega.nz/file/4C51RZII#rou6-lh95J-41nMp9dw4nI3Z0L7uynHXql5WVk-TXqI
+[SL-IG-NoPlugins]: https://mega.nz/file/MepyjIQS#tj_1fBh6d8nO-H3ri1Gt-6ylKsoSPEGpcj5IcOZPcYg
+[SL-IG-Duplicate]: https://mega.nz/file/4C5ACQ7S#hYK5G0Df4h_yGfRIpe-H8XwSCI9vTBVWRejwB5U1d_Y
+[TS-IG]: https://mega.nz/file/lHZ0UYDI#fbUWInFzH3u3d1EQlRfo3AtR3f64HjbIIk6F8ni65Wk
 
 [changelogs-link]: https://apt.fouadraheb.com/package/com.fouadraheb.regram/changelogs
 [flekstore-link]: https://flekstore.com/wa
