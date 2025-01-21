@@ -1,7 +1,7 @@
-[SL-IG]: https://mega.nz/file/4C51RZII#rou6-lh95J-41nMp9dw4nI3Z0L7uynHXql5WVk-TXqI
-[SL-IG-NoPlugins]: https://mega.nz/file/MepyjIQS#tj_1fBh6d8nO-H3ri1Gt-6ylKsoSPEGpcj5IcOZPcYg
-[SL-IG-Duplicate]: https://mega.nz/file/4C5ACQ7S#hYK5G0Df4h_yGfRIpe-H8XwSCI9vTBVWRejwB5U1d_Y
-[TS-IG]: https://mega.nz/file/lHZ0UYDI#fbUWInFzH3u3d1EQlRfo3AtR3f64HjbIIk6F8ni65Wk
+[SL-IG]: https://mega.nz/file/xfZhDQgT#ZHGPMCQvhkGkF134seNXyrm0n0cMim3bQEzM2J0lP7U
+[SL-IG-NoPlugins]: https://mega.nz/file/RKYwDCwZ#NLIrI9OYCSZ_dkJz9NwZGR7M6SqehGVq0GjXeVJI74U
+[SL-IG-Duplicate]: https://mega.nz/file/MXolSSQS#oUDSdGJlbV9wCzjhx8Kp4GP79pnnFSa3vtaXOI1R9fM
+[TS-IG]: https://mega.nz/file/1CYDnDyY#zr7AjyO9tWCpiXG71zI09H3K4C3L1iFe5Xq1ATFUYRs
 
 [changelogs-link]: https://apt.fouadraheb.com/package/com.fouadraheb.regram/changelogs
 [flekstore-link]: https://flekstore.com/wa
@@ -25,10 +25,10 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
     | Application | Bundle | Version | Regram |
     | ------------------ |:---------:|:------:|:------:|
-    | [Instagram][SL-IG] | com.burbn.instagram | 362.1 | 1.0~b20 |
-    | [Instagram - No-Plugins][SL-IG-NoPlugins] | com.burbn.instagram | 362.1 | 1.0~b20 |
-    | [Instagram - Duplicate][SL-IG-Duplicate] | com.fouadraheb.regram | 362.1 | 1.0~b20 |
-    | [Instagram - TrollStore][TS-IG] | com.burbn.instagram | 362.1 | 1.0~b20 |
+    | [Instagram][SL-IG] | com.burbn.instagram | 364.0 | 1.0~b21 |
+    | [Instagram - No-Plugins][SL-IG-NoPlugins] | com.burbn.instagram | 364.0 | 1.0~b21 |
+    | [Instagram - Duplicate][SL-IG-Duplicate] | com.fouadraheb.regram | 364.0 | 1.0~b21 |
+    | [Instagram - TrollStore][TS-IG] | com.burbn.instagram | 364.0 | 1.0~b21 |
 
     <sup>If you have a paid certificate, you need to use original version and sign it with a Distribution/Ad-Hoc certificate to get notifications.</sup>
     
