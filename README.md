@@ -1,7 +1,7 @@
 [SL-IG]: https://mega.nz/file/xfZhDQgT#ZHGPMCQvhkGkF134seNXyrm0n0cMim3bQEzM2J0lP7U
 [SL-IG-NoPlugins]: https://mega.nz/file/RKYwDCwZ#NLIrI9OYCSZ_dkJz9NwZGR7M6SqehGVq0GjXeVJI74U
 [SL-IG-Duplicate]: https://mega.nz/file/MXolSSQS#oUDSdGJlbV9wCzjhx8Kp4GP79pnnFSa3vtaXOI1R9fM
-[TS-IG]: https://mega.nz/file/1CYDnDyY#zr7AjyO9tWCpiXG71zI09H3K4C3L1iFe5Xq1ATFUYRs
+[TS-IG]: https://mega.nz/file/ceBxlJYK#kmz8gqeO5TyrbIXyZk878fpeqCuHezYKTTvKS8VYsM8
 
 [changelogs-link]: https://apt.fouadraheb.com/package/com.fouadraheb.regram/changelogs
 [flekstore-link]: https://flekstore.com/wa
