@@ -25,7 +25,7 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
     | Application | Bundle | Version | Regram |
     | ------------------ |:---------:|:------:|:------:|
-    | [Instagram][SL-IG] | com.burbn.instagram | 369.0 | 1.0~b22 |
+    | [Instagram][SL-IG] | com.burbn.instagram | 369.0 | 1.0~b23 |
     | [Instagram - No-Plugins][SL-IG-NoPlugins] | com.burbn.instagram | 369.0 | 1.0~b23 |
     | [Instagram - Duplicate][SL-IG-Duplicate] | com.fouadraheb.regram | 369.0 | 1.0~b23 |
     | [Instagram - TrollStore][TS-IG] | com.burbn.instagram | 369.0 | 1.0~b23 |
