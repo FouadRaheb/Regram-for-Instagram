@@ -1,7 +1,7 @@
-[SL-IG]: https://mega.nz/file/ReY1HCBA#97HAI3C8PgVuuHagb1Xco_i5jWPlUvg-a5QujE1iqpc
-[SL-IG-NoPlugins]: https://mega.nz/file/4WoVmATA#mBdo1enzCYhv_FILt9EL0xoSPrjYm9kkkgEvMDoHj6Q
-[SL-IG-Duplicate]: https://mega.nz/file/AOZwxKJI#jgpOPxYt6oiLjIu8O8ufW518K0B_iQiyvxR__lcRIxo
-[TS-IG]: https://mega.nz/file/xDhkiaQS#pGhspZXcH-pkJZDYh1uU8B0DabGXWkQtrJQ1jJjHDro
+[SL-IG]: https://cdn.fouadraheb.com/ipas/regram/1.0.25/com.burbn.instagram_374.1.10_regram_1.0.25_sl.ipa
+[SL-IG-NoPlugins]: https://cdn.fouadraheb.com/ipas/regram/1.0.25/com.burbn.instagram_374.1.10_regram_1.0.25_no-plugins_sl.ipa
+[SL-IG-Duplicate]: https://cdn.fouadraheb.com/ipas/regram/1.0.25/com.fouadraheb.regram_374.1.10_regram_1.0.25_sl.ipa
+[TS-IG]: https://cdn.fouadraheb.com/ipas/regram/1.0.25/com.burbn.instagram_374.1.10_regram_1.0.25_ts.ipa
 
 [changelogs-link]: https://apt.fouadraheb.com/package/com.fouadraheb.regram/changelogs
 [flekstore-link]: https://flekstore.com/wa
