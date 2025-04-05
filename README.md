@@ -1,7 +1,7 @@
-[SL-IG]: https://cdn.fouadraheb.com/ipas/regram/1.0.25/com.burbn.instagram_374.1.10_regram_1.0.25_sl.ipa
-[SL-IG-NoPlugins]: https://cdn.fouadraheb.com/ipas/regram/1.0.25/com.burbn.instagram_374.1.10_regram_1.0.25_no-plugins_sl.ipa
-[SL-IG-Duplicate]: https://cdn.fouadraheb.com/ipas/regram/1.0.25/com.fouadraheb.regram_374.1.10_regram_1.0.25_sl.ipa
-[TS-IG]: https://cdn.fouadraheb.com/ipas/regram/1.0.25/com.burbn.instagram_374.1.10_regram_1.0.25_ts.ipa
+[SL-IG]: https://cdn.fouadraheb.com/ipas/regram/1.0.26/com.burbn.instagram_374.1.10_regram_1.0.26_sl.ipa
+[SL-IG-NoPlugins]: https://cdn.fouadraheb.com/ipas/regram/1.0.26/com.burbn.instagram_374.1.10_regram_1.0.26_no-plugins_sl.ipa
+[SL-IG-Duplicate]: https://cdn.fouadraheb.com/ipas/regram/1.0.26/com.fouadraheb.regram_374.1.10_regram_1.0.26_sl.ipa
+[TS-IG]: https://cdn.fouadraheb.com/ipas/regram/1.0.26/com.burbn.instagram_374.1.10_regram_1.0.26_ts.ipa
 
 [changelogs-link]: https://apt.fouadraheb.com/package/com.fouadraheb.regram/changelogs
 [flekstore-link]: https://flekstore.com/wa
@@ -25,10 +25,10 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
     | Application | Bundle | Version | Regram |
     | ------------------ |:---------:|:------:|:------:|
-    | [Instagram][SL-IG] | com.burbn.instagram | 374.1.10 | 1.0.25 |
-    | [Instagram - No-Plugins][SL-IG-NoPlugins] | com.burbn.instagram | 374.1.10 | 1.0.25 |
-    | [Instagram - Duplicate][SL-IG-Duplicate] | com.fouadraheb.regram | 374.1.10 | 1.0.25 |
-    | [Instagram - TrollStore][TS-IG] | com.burbn.instagram | 374.1.10 | 1.0.25 |
+    | [Instagram][SL-IG] | com.burbn.instagram | 374.1.10 | 1.0.26 |
+    | [Instagram - No-Plugins][SL-IG-NoPlugins] | com.burbn.instagram | 374.1.10 | 1.0.26 |
+    | [Instagram - Duplicate][SL-IG-Duplicate] | com.fouadraheb.regram | 374.1.10 | 1.0.26 |
+    | [Instagram - TrollStore][TS-IG] | com.burbn.instagram | 374.1.10 | 1.0.26 |
 
     <sup>If you have a paid certificate, you need to use original version and sign it with a Distribution/Ad-Hoc certificate to get notifications.</sup>
     
