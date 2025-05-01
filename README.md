@@ -1,7 +1,7 @@
-[SL-IG]: https://cdn.fouadraheb.com/ipas/regram/1.0.28/com.burbn.instagram_378.0.0_regram_1.0.28_sl.ipa
-[SL-IG-NoPlugins]: https://cdn.fouadraheb.com/ipas/regram/1.0.28/com.burbn.instagram_378.0.0_regram_1.0.28_no-plugins_sl.ipa
-[SL-IG-Duplicate]: https://cdn.fouadraheb.com/ipas/regram/1.0.28/com.fouadraheb.regram_378.0.0_regram_1.0.28_sl.ipa
-[TS-IG]: https://cdn.fouadraheb.com/ipas/regram/1.0.28/com.burbn.instagram_378.0.0_regram_1.0.28_ts.ipa
+[SL-IG]: https://cdn.fouadraheb.com/ipas/regram/1.0.29/com.burbn.instagram_378.0.0_regram_1.0.29_sl.ipa
+[SL-IG-NoPlugins]: https://cdn.fouadraheb.com/ipas/regram/1.0.29/com.burbn.instagram_378.0.0_regram_1.0.29_no-plugins_sl.ipa
+[SL-IG-Duplicate]: https://cdn.fouadraheb.com/ipas/regram/1.0.29/com.fouadraheb.regram_378.0.0_regram_1.0.29_sl.ipa
+[TS-IG]: https://cdn.fouadraheb.com/ipas/regram/1.0.29/com.burbn.instagram_378.0.0_regram_1.0.29_ts.ipa
 
 [changelogs-link]: https://apt.fouadraheb.com/package/com.fouadraheb.regram/changelogs
 [flekstore-link]: https://flekstore.com/wa
@@ -25,10 +25,10 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
     | Application | Bundle | Version | Regram |
     | ------------------ |:---------:|:------:|:------:|
-    | [Instagram][SL-IG] | com.burbn.instagram | 378.0.0 | 1.0.28 |
-    | [Instagram - No-Plugins][SL-IG-NoPlugins] | com.burbn.instagram | 378.0.0 | 1.0.28 |
-    | [Instagram - Duplicate][SL-IG-Duplicate] | com.fouadraheb.regram | 378.0.0 | 1.0.28 |
-    | [Instagram - TrollStore][TS-IG] | com.burbn.instagram | 378.0.0 | 1.0.28 |
+    | [Instagram][SL-IG] | com.burbn.instagram | 378.0.0 | 1.0.29 |
+    | [Instagram - No-Plugins][SL-IG-NoPlugins] | com.burbn.instagram | 378.0.0 | 1.0.29 |
+    | [Instagram - Duplicate][SL-IG-Duplicate] | com.fouadraheb.regram | 378.0.0 | 1.0.29 |
+    | [Instagram - TrollStore][TS-IG] | com.burbn.instagram | 378.0.0 | 1.0.29 |
 
     <sup>If you have a paid certificate, you need to use original version and sign it with a Distribution/Ad-Hoc certificate to get notifications.</sup>
     
