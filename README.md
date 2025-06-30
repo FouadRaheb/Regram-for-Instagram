@@ -1,7 +1,7 @@
-[IG-SL]: https://cdn.fouadraheb.com/ipas/regram/1.0.31/com.burbn.instagram_384.0.0_regram_1.0.31_sl.ipa
-[IG-SL-NoPlugins]: https://cdn.fouadraheb.com/ipas/regram/1.0.31/com.burbn.instagram_384.0.0_regram_1.0.31_no-plugins_sl.ipa
-[IG-SL-Duplicate]: https://cdn.fouadraheb.com/ipas/regram/1.0.31/com.fouadraheb.regram_384.0.0_regram_1.0.31_sl.ipa
-[IG-TS]: https://cdn.fouadraheb.com/ipas/regram/1.0.31/com.burbn.instagram_384.0.0_regram_1.0.31_ts.ipa
+[IG-SL]: https://cdn.fouadraheb.com/ipas/regram/1.0.32/com.burbn.instagram_387.0.0_regram_1.0.32_sl.ipa
+[IG-SL-NoPlugins]: https://cdn.fouadraheb.com/ipas/regram/1.0.32/com.burbn.instagram_387.0.0_regram_1.0.32_no-plugins_sl.ipa
+[IG-SL-Duplicate]: https://cdn.fouadraheb.com/ipas/regram/1.0.32/com.fouadraheb.regram_387.0.0_regram_1.0.32_sl.ipa
+[IG-TS]: https://cdn.fouadraheb.com/ipas/regram/1.0.32/com.burbn.instagram_387.0.0_regram_1.0.32_ts.ipa
 
 [changelogs-link]: https://apt.fouadraheb.com/package/com.fouadraheb.regram/changelogs
 [flekstore-link]: https://flekstore.com/wa
