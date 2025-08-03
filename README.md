@@ -5,6 +5,7 @@
 
 [changelogs-link]: https://apt.fouadraheb.com/package/com.fouadraheb.regram/changelogs
 [flekstore-link]: https://flekstore.com/wa
+[kravasign-link]: https://kravasign.com/fouadraheb
 
 <h1 align="center">
 Regram for Instagram
@@ -32,7 +33,7 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
     <sup>If you have a paid certificate, you need to use original version and sign it with a Distribution/Ad-Hoc certificate to get notifications.</sup>
     
-* (Option 2) You can get a paid subscription from a signing store where you can download the latest Regram directly from your device and have it available for 1 year instead of 7 days. I recommend using [https://flekstore.com)][flekstore-link] since they always have the latest official IPA from this page.
+* (Option 2) You can get a signing certificate where you can download the latest Regram directly from your device and have it available for 1 year instead of 7 days. [KravaSign][kravasign-link] is the most reliable and affordable option for sideloading.
 
 
 <details>
