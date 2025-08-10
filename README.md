@@ -33,7 +33,7 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
     <sup>If you have a paid certificate, you need to use original version and sign it with a Distribution/Ad-Hoc certificate to get notifications.</sup>
     
-* (Option 2) You can get a signing certificate where you can download the latest Regram directly from your device and have it available for 1 year instead of 7 days. [KravaSign][kravasign-link] is the most reliable and affordable option for sideloading.
+* (Option 2) You can use a signing certificate to download the latest Regram directly on your device and keep it available for 1 year instead of just 7 days. [KravaSign][kravasign-link] is a reliable and affordable choice for sideloading, offering a distribution/ad-hoc certificate with Push Notification entitlements so you can continue receiving push notifications.
 
 
 <details>
