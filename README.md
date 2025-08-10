@@ -26,10 +26,10 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
     | Application | Bundle | Version | Regram |
     | ------------------ |:---------:|:------:|:------:|
-    | [Instagram][IG-SL] | com.burbn.instagram | 389.0.0 | 1.0.34 |
-    | [Instagram - No-Plugins][IG-SL-NoPlugins] | com.burbn.instagram | 389.0.0 | 1.0.34 |
-    | [Instagram - Duplicate][IG-SL-Duplicate] | com.fouadraheb.regram | 389.0.0 | 1.0.34 |
-    | [Instagram - TrollStore][IG-TS] | com.burbn.instagram | 389.0.0 | 1.0.33 |
+    | [Instagram][IG-SL] | com.burbn.instagram | 392.0.0 | 1.0.35 |
+    | [Instagram - No-Plugins][IG-SL-NoPlugins] | com.burbn.instagram | 392.0.0 | 1.0.35 |
+    | [Instagram - Duplicate][IG-SL-Duplicate] | com.fouadraheb.regram | 392.0.0 | 1.0.35 |
+    | [Instagram - TrollStore][IG-TS] | com.burbn.instagram | 392.0.0 | 1.0.35 |
 
     <sup>If you have a paid certificate, you need to use original version and sign it with a Distribution/Ad-Hoc certificate to get notifications.</sup>
     
