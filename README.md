@@ -1,7 +1,7 @@
-[IG-SL]: https://cdn.fouadraheb.com/ipas/regram/2.1.1/com.burbn.instagram_403.0.0_regram_2.1.1_sl.ipa
-[IG-SL-NoPlugins]: https://cdn.fouadraheb.com/ipas/regram/2.1.1/com.burbn.instagram_403.0.0_regram_2.1.1_no-plugins_sl.ipa
-[IG-SL-Duplicate]: https://cdn.fouadraheb.com/ipas/regram/2.1.1/com.fouadraheb.regram_403.0.0_regram_2.1.1_sl.ipa
-[IG-TS]: https://cdn.fouadraheb.com/ipas/regram/2.1.1/com.burbn.instagram_403.0.0_regram_2.1.1_ts.ipa
+[IG-SL]: https://cdn.fouadraheb.com/ipas/regram/2.2/com.burbn.instagram_406.1.0_regram_2.2_sl.ipa
+[IG-SL-NoPlugins]: https://cdn.fouadraheb.com/ipas/regram/2.2/com.burbn.instagram_406.1.0_regram_2.2_no-plugins_sl.ipa
+[IG-SL-Duplicate]: https://cdn.fouadraheb.com/ipas/regram/2.2/com.fouadraheb.regram_406.1.0_regram_2.2_sl.ipa
+[IG-TS]: https://cdn.fouadraheb.com/ipas/regram/2.2/com.burbn.instagram_406.1.0_regram_2.2_ts.ipa
 
 [changelogs-link]: https://apt.fouadraheb.com/package/com.fouadraheb.regram/changelogs
 [flekstore-link]: https://flekstore.com/wa
@@ -26,10 +26,10 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
     | Application | Bundle | Version | Regram |
     | ------------------ |:---------:|:------:|:------:|
-    | [Instagram][IG-SL] | com.burbn.instagram | 403.0.0 | 2.1.1 |
-    | [Instagram - No-Plugins][IG-SL-NoPlugins] | com.burbn.instagram | 403.0.0 | 2.1.1 |
-    | [Instagram - Duplicate][IG-SL-Duplicate] | com.fouadraheb.regram | 403.0.0 | 2.1.1 |
-    | [Instagram - TrollStore][IG-TS] | com.burbn.instagram | 403.0.0 | 2.1.1 |
+    | [Instagram][IG-SL] | com.burbn.instagram | 406.1 | 2.2 |
+    | [Instagram - No-Plugins][IG-SL-NoPlugins] | com.burbn.instagram | 406.1 | 2.2 |
+    | [Instagram - Duplicate][IG-SL-Duplicate] | com.fouadraheb.regram | 406.1 | 2.2 |
+    | [Instagram - TrollStore][IG-TS] | com.burbn.instagram | 406.1 | 2.2 |
 
     <sup>If you have a paid certificate, you need to use original version and sign it with a Distribution/Ad-Hoc certificate to get notifications.</sup>
     
