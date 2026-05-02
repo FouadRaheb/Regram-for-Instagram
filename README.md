@@ -1,7 +1,7 @@
-[IG-SL]: https://fouadraheb.com/dl/storage/ipa/1777629517179-mj5p7/com.burbn.instagram_426.0.0_regram_3.0_sl.ipa
-[IG-SL-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1777629517179-5qbhk/com.burbn.instagram_426.0.0_regram_3.0_sl_noplugs.ipa
-[IG-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1777629517179-wdtc0/com.fouadraheb.regram_426.0.0_regram_3.0_sl.ipa
-[IG-TS]: https://fouadraheb.com/dl/storage/ipa/1777629517177-yj3y7/com.burbn.instagram_426.0.0_regram_3.0_ts.ipa
+[IG-SL]: https://fouadraheb.com/dl/storage/ipa/1777707787646-mw7k3/com.burbn.instagram_426.0.0_regram_3.0.1_sl.ipa
+[IG-SL-NoPlugins]: https://fouadraheb.com/dl/storage/ipa/1777707787645-02rj4/com.burbn.instagram_426.0.0_regram_3.0.1_sl_noplugs.ipa
+[IG-SL-Duplicate]: https://fouadraheb.com/dl/storage/ipa/1777707787645-oguo3/com.fouadraheb.regram_426.0.0_regram_3.0.1_sl.ipa
+[IG-TS]: https://fouadraheb.com/dl/storage/ipa/1777707787643-ou1zi/com.burbn.instagram_426.0.0_regram_3.0.1_ts.ipa
 
 [changelogs-link]: https://apt.fouadraheb.com/package/com.fouadraheb.regram/changelogs
 [flekstore-link]: https://flekstore.com/wa
@@ -26,10 +26,10 @@ Add __[https://apt.fouadraheb.com](https://apt.fouadraheb.com)__ to your Cydia/Z
 
     | Application | Bundle | Version | Regram |
     | ------------------ |:---------:|:------:|:------:|
-    | [Instagram][IG-SL] | com.burbn.instagram | 426.0 | 3.0 |
-    | [Instagram - No-Plugins][IG-SL-NoPlugins] | com.burbn.instagram | 426.0 | 3.0|
-    | [Instagram - Duplicate][IG-SL-Duplicate] | com.fouadraheb.regram | 426.0 | 3.0 |
-    | [Instagram - TrollStore][IG-TS] | com.burbn.instagram | 426.0 | 3.0 |
+    | [Instagram][IG-SL] | com.burbn.instagram | 426.0 | 3.0.1 |
+    | [Instagram - No-Plugins][IG-SL-NoPlugins] | com.burbn.instagram | 426.0 | 3.0.1 |
+    | [Instagram - Duplicate][IG-SL-Duplicate] | com.fouadraheb.regram | 426.0 | 3.0.1 |
+    | [Instagram - TrollStore][IG-TS] | com.burbn.instagram | 426.0 | 3.0.1 |
 
     <sup>If you have a paid certificate, you need to use original version and sign it with a Distribution/Ad-Hoc certificate to get notifications.</sup>
     
